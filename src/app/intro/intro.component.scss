@@ -14,7 +14,7 @@
   width: 80%;
   margin: auto;
   img {
-    width: 40em;
+    width: 80%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -24,14 +24,15 @@
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+    margin: 3em auto 0 auto;
   }
 }
 
 .intro-title {
   font-weight: bold;
-  font-style: italic;
   text-align: center;
   font-size: 2em;
+  margin: 1em 0;
 }
 
 .intro-text {
@@ -61,6 +62,9 @@
 
   .intro-icon {
     margin-top: 2em;
+    img {
+      width: 100%;
+    }
   }
 
   .intro-title {
