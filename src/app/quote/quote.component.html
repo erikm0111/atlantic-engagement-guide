@@ -1,0 +1,19 @@
+<div @quote (@quote.done)="animationEnded($event)" class="quote" id="quote" *ngIf="showQuote">
+  <div class="quote-container">
+    <div class="close-button" id="close-button">
+      <img class="close-button-image"
+           id="close-button-image"
+           src="assets/quote/close_quote.png"
+           alt="No icon"
+           (click)="close()">
+    </div>
+
+    <div class="quote-content" id="quote-content">
+      <div class="quote-content-container" id="quote-container">
+        <div class="quote-text" id="quote-text">"{{('quotes.quote-' + quoteNumber + '.text') | translate}}"</div>
+        <div class="quote-author" id="quote-author">{{('quotes.quote-' + quoteNumber + '.author') | translate}},</div>
+        <div class="quote-metadata" id="quote-metadata">{{('quotes.quote-' + quoteNumber + '.metadata') | translate}}</div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div class="languages" id="languages">
+  <div *ngFor="let language of languages"
+       class="language regular"
+       id="language-{{language}}"
+       [title]="('languages.' + language + '.title') | translate"
+       [translate]="'languages.' + language + '.abbreviation'"
+       (click)="changeLanguage(language)">
+    {{language}}
+  </div>
+</div>

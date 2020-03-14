@@ -1,0 +1,256 @@
+{
+  "navbar": {
+    "title": "Vodič za menadžere",
+    "intro-button": {
+      "text": "Uvod"
+    }
+  },
+  "languages": {
+    "en": {
+      "abbreviation":  "EN",
+      "title": "Engleski"
+    },
+    "hr": {
+      "abbreviation":  "HR",
+      "title": "Hrvatski"
+    },
+    "sl": {
+      "abbreviation":  "SLO",
+      "title": "Slovenski"
+    }
+  },
+  "menu": {
+    "dropdown": {
+      "title": "kako se nositi s rezultatima angažmana?",
+      "content": {
+        "p1": "Nakon što dobijete rezultate angažmana za svoju jedinicu, vrijeme je da ih analizirate:",
+        "li1": "Predstavite rezultate članovima vašeg tima, bez obzira jesu li dobri ili loši.",
+        "li2": "Odredite najkritičnija područja i pripremite akcijski plan za poboljšanje zajedno s timom.",
+        "li3": "Pratite provedbu dogovorenih radnji i po potrebi unesite promjene.",
+        "p2": "Dobar angažman zahtijeva svakodnevno održavanje. Da bismo vam pomogli, za vas smo pripremili nekoliko korisnih savjeta i trikova!",
+        "p3": "Nastavite čitati..."
+      }
+    }
+  },
+  "guide": {
+    "components": {
+      "senior-leadership": {
+        "title": "VIŠE RUKOVODSTVO",
+        "subtitle": {
+          "1": "INFORMIRAJ SE, POKAŽI PUT I ",
+          "2": "VODI PRIMJEROM"
+        },
+        "texts": {
+          "a": "Organizirajte regularne sastanke sa svojim timom kako bi se moglo razgovarati o poslovnim rezultatima i planovima za budućnost.",
+          "b": "Komunicirajte važne poslovne odluke na vrijeme. Spriječite \"radio hodnik\".",
+          "c": "Konferencijski pozivi su dobri, ali ništa ne može zamijeniti osobnu povezanost i stvarne uvide. Budite redovno prisutni na tržištima za koja ste odgovorni.",
+          "d": "Pružite svom timu priliku da budu dio Atlantic zajednice motivirajući ih da sudjeluju u organiziranim događajima kao što su Value Day ili Božićni Party. Organizirajte posao na način kako bi vaš tim imao priliku sudjelovati.",
+          "e": "Sudjelujte u događajima tvrtke kao što su Sportski vikend ili budite aktivni u strateškim inicijativama poput Yammera ili Brenda poslodavca u kojima očekujete da vaši kolege sudjeluju. Vodite primjerom.",
+          "f": "Kada dođe do promjena u poslovanju, uzmite dovoljno vremena da objasnite timu zašto su potrebne i koje su implikacije istih; kako će i kada te promjene utjecati na tvrtku, poslovanje i ljude.",
+          "g": "Uvijek pronađite vremena da se sastanete sa svojim timom i saslušate što imaju za reći. Ako je potrebno, uvedite npr. \"Otvoreni dan\" ili ih izvedite van na piće.",
+          "h": "Ostanite informirani u vezi problema i briga koje vaši ljudi susreću u svakidašnjem poslu i životu. Pokažite da vam je stalo i da ste tu da im pružite podršku.",
+          "i": "Budite pristupačni, dostupni, pošteni i pružite pomoć kada je god ona potrebna. Kao vođa, vaši ljudi su vaš glavni prioritet – nemojte nikad zaboraviti na tu činjenicu."
+        }
+      },
+      "talent-management": {
+        "title": "UPRAVLJANJE TALENTIMA",
+        "subtitle": {
+          "1": "PRAVI LJUDI NA ",
+          "2": "PRAVIM MJESTIMA"
+        },
+        "texts": {
+          "a": "Dodijelite članovima svojeg tima uloge koje što bolje odgovaraju njihovim individualnim snagama i ambicijama.",
+          "b": "Definirajte razvojne inicijative za poboljšanje vještina i sposobnosti članova vašeg tima. \nSlijedite formulu 70:20:10!\n70% (razvoj na poslu) \n20 % (treniranje, mentorstvo, feedback) \n10 % (obučavanje)",
+          "c": "Nadzirite napredak razvoja zaposlenika i kada uočite da se zaposlenik dosađuje ili je prerastao trenutnu poziciju, razmislite o dodavanju dodatne odgovornosti, više raznovrsnosti u poziciji, rotaciji posla, itd.",
+          "d": "Dajte redovni feedback u vezi potrebnih vještina i kompetencija za napredovanje.",
+          "e": "Motivirajte članove tima da promatraju otvorene pozicije unutar kompanije i da se prijave za pozicije za koje smatraju da im mogu pružiti priliku za rast i razvoj.",
+          "f": "Budite transparentni i na vrijeme objasnite timu tko će biti promoviran i zašto.",
+          "g": "Pokušajte identificirati faktore koji mogu smanjiti rizik da najbolji zaposlenici napuste kompaniju I pripremite najadekvatnije taktike za zadržavanje istih."
+        }
+      },
+      "collaboration": {
+        "title": "SURAĐIVANJE",
+        "subtitle": {
+          "1": "SVI VESLAMO U ",
+          "2": "ISTOM ČAMCU"
+        },
+        "texts": {
+          "a": "Tretirajte svoj tim kao stručnjake – oni su vaš najbolji izbor savjeta za poboljšanje posla i poslovnog procesa; nemojte se ustručavati pitati ih za savjet.",
+          "b": "U proces donošenja odluka uključite sve stranke na koje će posljedice tih odluka utjecati.",
+          "c": "Uključite članove tima u postavljanje ciljeva. Osigurajte da su ciljevi usklađeni te da svi članovi tima dijele iste ciljeve.",
+          "d": "Definirajte projekte u kojima kolege iz različitih jedinica moraju surađivati.",
+          "e": "Nominirajte svoje kolege kao članove tima za višepodručne projekte.",
+          "f": "Motivirajte članove vašeg tima da se prijave za višepodručne projekte na vlastitu inicijativu.",
+          "g": "Organizirajte radionice kako bi proučili zašto suradnja nije na očekivanoj razini i zajedno se složite oko radnji koje treba poduzeti za napredak.",
+          "h": "Organizirajte s vremena na vrijeme Start/Stop/Continue radionicu i definirajte nove načine rada (sa svojim timom ili s drugim timovima s kojima surađujete).",
+          "i": "Potrudite se da svi razumiju svoje uloge i odgovornosti.",
+          "j": "Ohrabrite članove svojeg tima da pomažu jedni drugima čak i kada to znači da moraju napraviti nešto van svojeg područja odgovornosti.",
+          "k": "Organizirajte neformalna timska i međutimska druženja da proslavite uspjehe i potaknete daljnju suradnju. Jedan zajednički ručak može izgraditi mnoge mostove."
+        }
+      },
+      "empowerment": {
+        "title": "AUTONOMIJA",
+        "subtitle": {
+          "1": "JA SAM ",
+          "2": "GLAVNI!"
+        },
+        "texts": {
+          "a": "Uključite članove svojeg tima u potragu za rješenjima, donošenje odluka, rješavanje problema i uvođenje promjena.",
+          "b": "Provjerite koliko vaše uključenosti i podrške članovi vašeg tima stvarno trebaju pri izvršavanju redovnih zadataka. Ponašajte se u skladu s njihovim potrebama!",
+          "c": "Ohrabrite neovisnost članova vašeg tima tako da smanjite razinu nadzora i dozvolite slobodu donošenja vlastitih odluka.",
+          "d": "Ohrabrite članove tima da podijele svoje poglede, ideje i prijedloge.",
+          "e": "Pohvalite članove tima kada traže riješenja, umjesto izlika ili problema.",
+          "f": "Pružite i dijelite informacije koje utječu na posao vašeg tima na regularnoj bazi.",
+          "g": "Organizirajte regularne sastanke gdje se informacije mogu dijeliti između članova tima.",
+          "h": "Pobrinite se da svi članovi tima imaju potrebne informacije za obavljanje dnevnih zadataka. ",
+          "i": "Potaknite svoj tim da pričaju o čemu god smatraju da je potrebno pričati."
+        }
+      },
+      "learning-and-development": {
+        "title": "UČENJE I RAZVOJ",
+        "subtitle": {
+          "1": "ZNANJE JE ",
+          "2": "MOĆ!"
+        },
+        "texts": {
+          "a": "Objasnite da je odgovornost za učenje i razvoj dvosmjerna. Dajte članovima tima vlasništvo nad njihovim vlastitim razvojem i pružite im potpunu podršku u ostvarenju istog.",
+          "b": "U potpunosti iskoristite efektivnu formulu za razvoj - 70:20:10 (70% razvoj na poslu, 20% trening, mentorstvo, feedback i 10% obučavanje).\n\nPobrinite se da članovi vašeg tima regularno provjeravaju razvojne aktivnosti dostupne na HR.net-u",
+          "c": "Identificirajte najrelevantnije potrebe za razvoj (jaz u izvedbi, usavršavanje vještina, specifično profesionalno iskustvo, karijerni razvoj...) i definirajte Individualni Plan Razvoja (Individual Development Plan – IDP) zajedno sa zaposlenikom. Nadzirite realizaciju istog i pružite podršku ako je potrebno.",
+          "d": "Krojite razvojne planove na način da maksimiziraju snage i minimiziraju slabosti.",
+          "e": "Organizirajte 1:1 razvojni razgovor i pružite otvoreni feedback.",
+          "f": "Provjerite ambicije i identificirajte što se treba promijeniti ili napraviti kako bi se razvoj kretao u pravom smjeru i u konačnici se dostigli karijerni ciljevi.",
+          "g": "Nemojte davati obećanja koja ne možete održati!",
+          "h": "Pobrinite se da članovi vašeg tima regularno provjeravaju razvojne aktivnosti dostupne na HR.net.",
+          "i": "Identificirajte edukacijske potrebe vašeg tima i inicirajte organizaciju potrebne obuke.",
+          "j": "Organizirajte stručnu praksu ili rotaciju posla.",
+          "k": "Nakon obuke kojoj su pristupili članovi vašeg tima, uzmite vremena da raspravite o relevantnosti, korisnosti i aplikaciji vještina i znanja koje su stekli.",
+          "l": "Definirajte projekte gdje članovi tima mogu naučiti jedni od drugih ili definirajte višepodručne projekte.",
+          "m": "Ponašajte se kao trener i mentorirajte svoj tim u svakidašnjem poslu.",
+          "n": "Članovima tima dodijelite mentore iz svog tima ili iz drugih timova kako bi mogli razvijati specifične vještine."
+        }
+      },
+      "supervision": {
+        "title": "RUKOVOĐENJE",
+        "subtitle": {
+          "1": "MAKSIMALNO SAVJETOVANJE I ",
+          "2": "MINIMALNA KONTROLA"
+        },
+        "texts": {
+          "a": "Jasno komunicirajte viziju, strategiju, ciljeve, odgovornosti i očekivanja.",
+          "b": "Uključite članove tima u postavljanju timskih i individualnih ciljeva za nadolazeću godinu.",
+          "c": "Pohvalite dobre rezultate i dajte podršku članovima svog tima kada rezultati nisu dovoljno dobri.",
+          "d": "Uvijek u obzir uzmite alternativne poglede i prijedloge.",
+          "e": "Uključite članove tima u traženje rješenja, donošenje odluka, rješavanje problema i predstavljanje promjena.",
+          "f": "Ohrabrite članove tima da uče iz svojih greaška i da ne traže i osuđuju one koji su napravili pogrešku.",
+          "g": "Dajte feedback na svakodnevna postignuća, razvoj i prilike za unaprjeđenje karijere.",
+          "h": "Dajte regularni feedback na poslovne teme koje utječu na posao članova vašeg tima.",
+          "i": "Ohrabrite članove vašeg tima da budu kreativniji, da razmišljaju izvan okvira.",
+          "j": "Zajedno tražite rješenja za izbjegavanje pogrešaka.",
+          "k": "Budite pristupačni, dostupni i spremni pomoći kada je god to potrebno.",
+          "l": "Uvijek imajte otvorena vrata. Nađite vremena naći se sa članovima vašeg tima i saslušajte što vam imaju za reći. Organizirajte redovne timske i 1:1 sastanke.",
+          "m": "Identificirajte potrebe razvoja za svakog člana tima. Uzmite dovoljno vremena da raspravite o osobnom razvoju svakog člana tima i iskrojite individualni razvojni plan.",
+          "n": "Budite otvoreni, iskreni i pošteni.",
+          "o": "Ponudite vaše povjerenje i poštovanje. Tretirajte sve jednako.",
+          "p": "Održavajte redovne neformalne razgovore sa svakim članom tima. Pokažite iskreno zanimanje za članove tima unutar i van ureda.",
+          "r": "Nosite se s neadekvatnim izvršavanjem obaveza na vrijeme. Organizirajte 1:1 sastanak o kvaliteti izvršavanja obaveza te ponudite otvoreni feedback koji možete potkrijepiti dokazima. Ako ne dođe do značajnog poboljšanja kroz određeni period vremena, uključite Poslovnog Partnera i postavite plan za poboljšanje kvalitete obavljenog posla s jasnim ciljevima i rokovima. Nadzirite napredak i pružite feedback.",
+          "s": "Budite informirani o specifičnostima privatnog života svakog člana tima. Pružite im podršku ukoliko je potrebno."
+        }
+      },
+      "rewards-and-recognition": {
+        "title": "NAGRAĐIVANJE I PREPOZNAVANJE",
+        "subtitle": {
+          "1": "NEIZMJERNO TI ",
+          "2": "HVALA!"
+        },
+        "texts": {
+          "a": "Pohvalite dobro obavljen posao ili posebna postignuća. Pohvale bi trebale biti izravne; nemojte čekati formalne nagrade ili revizije.",
+          "b": "Pohvalite iznimna postignuća osobno (govor ispred cijelog tima, 1:1 feedback, individualno pismo, poseban poklon, objavljivanje pohvale na LinkedInu…).",
+          "c": "Prepoznajte timska ili individualna postignuća na regularnim sastancima. Nominirajte npr. \"zaposlenika godine\" ili “”zaposlenika kvartala” i ponudite mu neki simbol priznanja (kao npr., poklon torbu s našim proizvodima).",
+          "d": "Ako priznanje dolazi izvan tima (članovi odbora, glavni direktori, kolege iz drugih jedinica), podijelite to sa svim članovima tima.",
+          "e": "Pronađite način da čestitate svom timu na obavljenim etapama ili postignućima (npr. organizirajte timski ručak ili druženje za posebna postignuća)",
+          "f": "Pobrinite se da postoji dodatan budžet za izvanredno izvršavanje obaveza, dodatne projekte, iznimne rezultate ili zadatke obavljene van regularnog posla u slučajima kada to ne ulazi u dio formalnog sustava nagrađivanja.",
+          "g": "Objasnite zašto su poslovne pozicije evaluirane na način na koji jesu, zašto postoje razlike unutar poslovne jedinice; objasnite vanjska mjerila ili unutarnje promjene u pravilima oko plaće.",
+          "h": "Objasnite koje su benificije dostupne svim zaposlenicima, a koje za specifične poslovne pozicije. Pobrinite se da zaposlenici razumiju da benificije nisu samo novčane (npr. liječnički pregledi, sportski timovi, darovi za djecu…).",
+          "i": "Ako je potrebno, organizirajte sastanak s poslovnim partnerom ili sa specijalistom za kompenzacije i beneficije kako bi naučili i razumjeli koje su beneficije dostupne zaposlenicima u Atlanticu."
+        }
+      },
+      "workload-and-flexibility": {
+        "title": "RADNO OPTEREĆENJE I FLEKSIBILNOST",
+        "subtitle": {
+          "1": "STRASTVEN, ",
+          "2": "A NE IZGOREN"
+        },
+        "texts": {
+          "a": "Kada dodjeljujete zadatak, ostavite dovoljno vremena za njegovo izvršenje.",
+          "b": "Konzultirajte se sa članom tima oko preporuke roka izvršenja zadatka.",
+          "c": "Pobrinite se da su zadaci podjednako raspoređeni među članovima tima.",
+          "d": "Organizirajte Start/Stop/Continue radionicu i definirajte kako izbjeći nepotrebne zadatke.",
+          "e": "Demonstrirajte iskrenu zainteresiranost za kolege unutar i van ureda.",
+          "f": "Izbjegnite poslovnu komunikaciju izvan radnih sati.",
+          "g": "Iskoristite fleksibilno radno vrijeme i mjesto koliko god je to potrebno članovima vašeg tima. Ako su ciljevi postavljeni i postoji povjerenje, nema potrebe za brigom. Ne postoji direktna korelacija između izvrsnog ispunjavanja obaveza i rada u uredu od devet do pet.",
+          "h": "Izbjegavajte zadatke \"danas za jučer\". Ako se pojave prioritetni zadaci, pogledajte kako utječu na druge obaveze i napravite potrebne preinake.",
+          "i": "Definirajte prioritete zajedno sa članovima tima.",
+          "j": "Ohrabrite članove tima da pomažu jedni drugima.",
+          "k": "Pitajte članove tima kako im možete pomoći. Ponudite svoju pomoć."
+        }
+      }
+    }
+  },
+  "intro": {
+    "title": "Vodič za menadžere",
+    "text": "Dobrodošli u Vodič za angažiranost zaposlenika! Ovo su vaši pomagači koji će vam pomoći s korisnim savjetima i trikovima vezanim za angažiranost.",
+    "continue": "Nastavi"
+  },
+  "quotes": {
+    "quote-1": {
+      "text": "Ukoliko vaši postupci inspiriraju druge da sanjaju više, uče više, rade više i postaju više, onda ste vođa.",
+      "author": "John Quincy Adams",
+      "metadata": "6. Predsjednik Sjedinjenih Američkih Država"
+    },
+    "quote-2": {
+      "text": "Ako se ljudima sviđate, slušat će vas, ali ako vam vjeruju, poslovat će s vama.",
+      "author": "Zig Ziglar",
+      "metadata": "autor, prodavač, i motivacijski govornik"
+    },
+    "quote-3": {
+      "text": "Vaše najnezadovoljnije mušterije su vaš najbolji izvor učenja. ",
+      "author": "Bill Gates",
+      "metadata": "suosnivač Microsofta"
+    },
+    "quote-4": {
+      "text": "Nije stvar u idejama. Stvar je u pretvaranju ideja u stvarnost.",
+      "author": "Scott Belsky",
+      "metadata": "suosnivač Behancea"
+    },
+    "quote-5": {
+      "text": "Uvijek razmišljajte van okvira i prihvatite prilike koje se pojavljuju, gdje god one mogle biti.",
+      "author": "Lakshmi Mittal",
+      "metadata": "Predsjednik i glavni izvršni direktor ArcelorMittala"
+    },
+    "quote-6": {
+      "text": "Mislio da možeš, ili mislio da ne možeš – u pravu si.",
+      "author": "Henry Ford",
+      "metadata": "osnivač Ford Motor Companyja"
+    },
+    "quote-7": {
+      "text": "je suma manjih pothvata – koji se ponavljaju iz dana u dan.",
+      "author": "Robert Collier",
+      "metadata": "autor"
+    },
+    "quote-8": {
+      "text": "Ako si probao. Ako nisi uspio. Nije bitno. Probaj opet. Opet nemoj uspjeti. Nemoj uspjeti bolje.",
+      "author": "Samuel Beckett",
+      "metadata": "Irski avant-garde dramski i kazališni pisac"
+    },
+    "quote-9": {
+      "text": "U redu je slaviti uspjeh, ali je važnije naučiti lekcije iz neuspjelih pokušaja.",
+      "author": "Bill Gates",
+      "metadata": "suosnivač Microsofta"
+    },
+    "quote-10": {
+      "text": "Ako se možeš natjerati da pređeš preko osjećaja straha, osjećaja preuzimanja rizika, stvarno se nevjerojatne stvari mogu dogoditi.",
+      "author": "Marissa Mayer",
+      "metadata": "predsjednica i izvršna direktorica Yahooa!"
+    }
+  }
+}

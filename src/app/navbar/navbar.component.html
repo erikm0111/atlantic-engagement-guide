@@ -1,0 +1,16 @@
+<div class="navbar" id="navbar">
+  <div class="logo">
+    <app-logo></app-logo>
+  </div>
+
+  <div class="title-container title-container-display-none">
+    <div id="title" translate="navbar.title" [routerLink]="'/'" class="bold" [ngClass]="{'not-visible': !showTitle, 'title': showTitle}"></div>
+  </div>
+
+  <div class="options">
+    <div id="intro-button" [ngClass]="{'not-visible': !showIntroButton, 'intro-button': showIntroButton}" [routerLink]="'/intro'">
+      <div class="intro-button-text regular" id="intro-button-text" translate="navbar.intro-button.text"></div>
+    </div>
+    <app-language-picker></app-language-picker>
+  </div>
+</div>

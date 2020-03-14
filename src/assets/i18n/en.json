@@ -1,0 +1,255 @@
+{
+  "navbar": {
+    "title": "Engagement guide",
+    "intro-button": {
+      "text": "Intro"
+    }
+  },
+  "languages": {
+    "en": {
+      "abbreviation":  "EN",
+      "title": "English"
+    },
+    "hr": {
+      "abbreviation":  "HR",
+      "title": "Croatian"
+    },
+    "sl": {
+      "abbreviation":  "SLO",
+      "title": "Slovenian"
+    }
+  },
+  "menu": {
+    "dropdown": {
+      "title": "How to deal with engagement results?",
+      "content": {
+        "p1": "Once you received engagement results for your unit, it is time to analyse them:",
+        "li1": "Present the results to your team members, no matter are they  good or bad.",
+        "li2": "Identify the most critical areas and prepare action plan for improvement together with the team.",
+        "li3": "Keep an eye on implementation of agreed actions, and make changes if necessary.",
+        "p2": "Neat engagement requires day-to-day maintenance. To help you we’ve prepared some useful tips & tricks for you!",
+        "p3": "Read on..."
+      }
+    }
+  },
+  "guide": {
+    "components": {
+      "senior-leadership": {
+        "title": "SENIOR LEADERSHIP",
+        "subtitle": {
+          "1": "STAY INFORMED, LEAD THE WAY AND ",
+          "2": "BE THE EXAMPLE"
+        },
+        "texts": {
+          "a": "Organise meetings with your team on regular basis to talk about business results and future plans.",
+          "b": "Communicate important business decisions on time. Prevent \"radio hallway\"",
+          "c": "Conference calls are great but nothing beats personal connections and real insights. Be regularly present on markets for which you are responsible for.",
+          "d": "Provide your team with opportunities to be part of Atlantic community by motivating them to participate in organized events such as Value Day or X-Mas Party by organising work in a way that they can participate.",
+          "e": "Participate in company’s events like Sports weekend and be active in strategic initiatives like Yammer, or employer branding in which you expect your colleagues to participate. Lead by example.",
+          "f": "When changes in business occur, take time to explain  to your team why they are necessary and what are the implications; what and how these changes afflict company, business and people. ",
+          "g": "Always find time to meet and listen to what your team members have to say. If needed introduce e.g. an \"Open day\" or just take them out for a beer.",
+          "h": "Stay informed about issues and concerns your people encounter in everyday work and life. Show you care and provide support.",
+          "i": "Be approachable, available, fair and provide assistance whenever necessary.  As leader, your people are your main priority, don’t ever lose sight of that fact."
+        }
+      },
+      "talent-management": {
+        "title": "TALENT MANAGEMENT",
+        "subtitle": {
+          "1": "RIGHT PEOPLE AT THE ",
+          "2": "RIGHT PLACES"
+        },
+        "texts": {
+          "a": "Assign team members roles that fit their strengths and aspirations as much as possible.",
+          "b": "Define development actions to improve skills and capabilities of your team members.\nFollow the formula 70:20:10!\n70% (on the job development)\n20% (coaching, mentoring, feedback)\n10% (training)",
+          "c": "Monitor development progress of the employee and when you notice that the employee is getting bored for he or she has overgrown the current position think about adding additional responsibility, more variety in role, job rotation, …",
+          "d": "Give regular feedback on needed skills and competencies for advancement.",
+          "e": "Motivate team members to monitor open vacancies within company and to apply for positions they consider as growth opportunity.",
+          "f": "Be transparent and explain on time to the team who will be promoted and why.",
+          "g": "Try to identify factors that could reduce the risk of best leaving the company and prepare adequate retention tactics."
+        }
+      },
+      "collaboration": {
+        "title": "COLLABORATION",
+        "subtitle": {
+          "1": "WE ALL ROW IN THE ",
+          "2": "SAME BOAT"
+        },
+        "texts": {
+          "a": "Treat your team members as experts - they are your best source of  advice on improving services and processes, don’t hesitate to ask them for advice.",
+          "b": "Involve in decision making all parties that could be affected by a certain decision.",
+          "c": "Involve team members in setting goals. Ensure that goals are aligned, and all team members share the common goals.",
+          "d": "Define projects where colleagues from different units have to collaborate.",
+          "e": "Nominate your colleagues as team members in cross-functional projects.",
+          "f": "Motivate your team members to apply for cross-functional projects on their own initiative.",
+          "g": "Organise workshop to examine why collaboration is not on the expected level and mutually agree actions for improvement.",
+          "h": "Organise from time to time Start/Stop/Continue workshop and define new ways of working (with your team or with other teams you cooperate with).",
+          "i": "Make sure everyone understands their role and responsibilities.",
+          "j": "Encourage team members to help each other even if it sometimes means doing something outside their area of responsibility.",
+          "k": "Organise informal team and cross-team gatherings to celebrate success and foster collaboration. A simple joint lunch can build many bridges."
+        }
+      },
+      "empowerment": {
+        "title": "EMPOWERMENT",
+        "subtitle": {
+          "1": "I'M IN ",
+          "2": "CHARGE!"
+        },
+        "texts": {
+          "a": "Involve your team members in searching for solutions, making decisions, problem solving, introducing changes.",
+          "b": "Check how much of your involvement and support your team members really need in performing regular tasks. Act accordingly!",
+          "c": "Encourage independency of your team members by reducing the supervision and by giving them autonomy to make decisions.",
+          "d": "Encourage team members to share their views, ideas, suggestions.",
+          "e": "Praise team members to seek solutions, not excuses or problems.",
+          "f": "Provide and share information that affect work of your team members on regular basis.",
+          "g": "Organise regular meetings where information could be shared among team members.",
+          "h": "Ensure that all team members have information needed to perform everyday tasks.",
+          "i": "Encourage your team to speak up what ever needs to be spoken out."
+        }
+      },"learning-and-development": {
+        "title": "LEARNING AND DEVELOPMENT",
+        "subtitle": {
+          "1": "KNOWLEDGE IS THE ",
+          "2": "POWER"
+        },
+        "texts": {
+          "a": "Make it clear that responsibility for learning and development is two-way. Give team members ownership for their development and provide them full support in realisation.",
+          "b": "Explain that training is not the only development method.  Fully utilise the most effective development formula 70:20:10 (70% on the job development, 20% coaching, mentoring, feedback and 10% training).",
+          "c": "Identify the most relevant development needs (performance gap, skill mastering, specific professional experience, career development, ...) and define Individual Development Plan (IDP) together with an employee. Monitor realisation and provide support if needed.",
+          "d": "Tailor development plans to maximise strengths and minimise weaknesses.",
+          "e": "Organise 1:1 development talk and provide open feedback.",
+          "f": "Check aspirations and identify what needs to be changed or done in order to develop in the right direction and reach career goals.",
+          "g": "Don’t give promises you can’t keep!",
+          "h": "Ensure that your team members regularly monitor development activities offered in HR.net.",
+          "i": "Identify teams of business unit’s learning needs and initiate organisation of needed trainings.",
+          "j": "Organize job shadowing or job rotations.",
+          "k": "Follow up trainings attended by your team members to discuss relevance, usefulness and application of skills and knowledge they gained.",
+          "l": "Define projects where team members could learn from each other or define cross functional projects.",
+          "m": "Act as a coach and mentor to your team in everyday work.",
+          "n": "Assign mentors to your team members from your team or from another team to develop specific skills."
+        }
+      },
+      "supervision": {
+        "title": "SUPERVISION",
+        "subtitle": {
+          "1": "MAXIMUM GUIDANCE AND ",
+          "2": "MINIMUM CONTROL"
+        },
+        "texts": {
+          "a": "Clearly communicate vision, strategy, goals, responsibilities and expectations.",
+          "b": "Involve team members in setting unit and individual goals for the next year.",
+          "c": "Praise good results and give support to your team members when results are not so good.",
+          "d": "Always embrace alternative views and suggestions.",
+          "e": "Involve your team members in searching for solutions, making decisions, problem solving, introducing changes.",
+          "f": "Encourage your team members to learn from mistakes and do not seek for and judge the one who made a mistake.",
+          "g": "Give feedback on everyday performance, development and career opportunities.",
+          "h": "Give regular feedback on business matters that affects work of your team members.",
+          "i": "Encourage your team members to be creative, to seek out of the box solutions.",
+          "j": "Seek together solutions how to avoid mistakes.",
+          "k": "Be approachable, available, and prepared to help out whenever necessary.",
+          "l": "Keep an open door. Always find time to meet and listen to what your team members have to say. Organise regular team and 1:1 meeting.",
+          "m": "Identify development needs for each team member. Take necessary time to discuss about personal development of each team member and to prepare a tailor-made development plan.",
+          "n": "Be open, honest and fair.",
+          "o": "Offer your trust and respect. Treat everyone equally.",
+          "p": "Have regular informal talks with each of your team members. Show genuine interest in your team members both inside and outside work.",
+          "r": "Manage poor performance on time. Organise 1:1 performance discussion meeting and provide open feedback based on evidence. If there is no significant improvement over time, include Business Partner and set Performance improvement plan with clear goals and deadlines. Monitor progress and provide feedback.",
+          "s": "Be informed about specifics of each team member’s private life. Provide support if needed."
+        }
+      },
+      "rewards-and-recognition": {
+        "title": "REWARDS AND RECOGNITION",
+        "subtitle": {
+          "1": "THANK YOU ",
+          "2": "AND BEYOND"
+        },
+        "texts": {
+          "a": "Praise good performance or extra achievements. Praise should be immediate; do not wait for formal awards or reviews.",
+          "b": "Praise exceptional achievements personally (speech in front the whole team, 1:1 feedback, individual letter, special gift, publish it on LinkedIn…).",
+          "c": "Recognise team and individual achievements on regular meetings. Nominate e.g. a \"worker of the year\" or 'worker of the quarter' and give him or her some talken of appretiation like goodie bag with our products for instance).",
+          "d": "If recognition comes from outside the team (Board Members, General Managers, colleagues from other units) share this with all team members.",
+          "e": "Find way to congratulate your team on their milestones or achievements (e.g. rganise team lunch or gathering for special achievements)",
+          "f": "Ensure additional budget for extra performance, additional projects, exceptional results and tasks outside of regular work in cases when it is not part of formal rewarding system.",
+          "g": "Explain why job positions are evaluated as they are, why there are differences within the Unit, external benchmarks and internal salary changes rules.",
+          "h": "Explain which benefits are available to all employees and which for specific job positions. Ensure understanding that benefits are not monetary only (e.g. medical checkups, sports clubs, gifts for kids…).",
+          "i": "If needed organise a meeting with Business partner or Compensation and benefits specialist to learn and understand what benefits for employees are available in Atlantic."
+        }
+      },
+      "workload-and-flexibility": {
+        "title": "WORKLOAD AND FLEXIBILITY",
+        "subtitle": {
+          "1": "PASSIONATE, ",
+          "2": "NOT BURNT"
+        },
+        "texts": {
+          "a": "When assigning tasks, leave reasonable time for completion.",
+          "b": "Ask team member to propose deadlines.",
+          "c": "Ensure tasks are evenly spread among team members.",
+          "d": "Organise Start/Stop/Continue workshop and define how to avoid unnecessary tasks.",
+          "e": "Demonstrate genuine interest in colleagues both inside and outside work.",
+          "f": "Avoid business communication outside working hours.",
+          "g": "Utilise flex time and flex place as much as your team members need it. If goals are well set and trust is there, you don’t have to worry. There is no equivalence between exceptional performance and work in the office from nine to five.",
+          "h": "Avoid tasks \"today for yesterday\". If urgent task appears, see if and how it affects other duties and make rearrangements accordingly.",
+          "i": "Define priorities together with team members.",
+          "j": "Encourage team members to help each other.",
+          "k": "Ask team members how you can help them. Offer your assistance."
+        }
+      }
+    }
+  },
+  "intro": {
+    "title": "Engagement guide",
+    "text": "Hi! Welcome to the Engagement Guide! These are your helpers who will give you helpful tips and tricks related to engagement results.",
+    "continue": "Continue"
+  },
+  "quotes": {
+    "quote-1": {
+      "text": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+      "author": "John Quincy Adams",
+      "metadata": "6th President of the United States"
+    },
+    "quote-2": {
+      "text": "If people like you, they’ll listen to you, but if they trust you, they’ll do business with you.",
+      "author": "Zig Ziglar",
+      "metadata": "author, salesman, and motivational speaker"
+    },
+    "quote-3": {
+      "text": "Your most unhappy customers are your greatest source of learning.",
+      "author": "Bill Gates",
+      "metadata": "co-founder of Microsoft"
+    },
+    "quote-4": {
+      "text": "It’s not about ideas. It’s about making ideas happen.",
+      "author": "Scott Belsky",
+      "metadata": "co-founder of Behance"
+    },
+    "quote-5": {
+      "text": "Always think outside the box and embrace opportunities that appear, wherever they might be.",
+      "author": "Lakshmi Mittal",
+      "metadata": "Chairman & CEO of ArcelorMittal"
+    },
+    "quote-6": {
+      "text": "Whether you think you can, or think you can’t – you’re right.",
+      "author": "Henry Ford",
+      "metadata": "founder of the Ford Motor Company"
+    },
+    "quote-7": {
+      "text": "Success is the sum of small efforts – repeated day in and day out.",
+      "author": "Robert Collier",
+      "metadata": "author"
+    },
+    "quote-8": {
+      "text": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+      "author": "Samuel Beckett",
+      "metadata": "Irish avant-garde novelist and playwright"
+    },
+    "quote-9": {
+      "text": "It’s fine to celebrate success but it is more important to heed the lessons of failure.",
+      "author": "Bill Gates",
+      "metadata": "co-founder of Microsoft"
+    },
+    "quote-10": {
+      "text": "If you can push through that feeling of being scared, that feeling of taking a risk, really amazing things can happen.",
+      "author": "Marissa Mayer",
+      "metadata": "president & CEO of Yahoo!"
+    }
+  }
+}

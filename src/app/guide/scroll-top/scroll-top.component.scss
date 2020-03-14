@@ -1,0 +1,69 @@
+.scroll-top-container {
+  position: fixed;
+  bottom: 5em;
+  right: 5em;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+.scroll-top-button {
+  color: red;
+  background-color: white;
+  width: 3em;
+  height: 3em;
+
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2);
+}
+
+.scroll-top-button img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.scroll-top-button:hover {
+  background-color: rgb(245, 245, 245);
+}
+
+@media screen and (max-width: 1200px) {
+  .scroll-top-container {
+    bottom: 4em;
+    right: 4em;
+  }
+
+  .scroll-top-button {
+    width: 2.5em;
+    height: 2.5em;
+  }
+}
+
+@media screen and (max-width: 922px) {
+  .scroll-top-container {
+    bottom: 3em;
+    right: 3em;
+  }
+
+  .scroll-top-button {
+    width: 2em;
+    height: 2em;
+  }
+}
+
+@media screen and (max-width: 555px) {
+  .scroll-top-container {
+    bottom: 2em;
+    right: 2em;
+  }
+
+  .scroll-top-button {
+    width: 1.5em;
+    height: 1.5em;
+  }
+}

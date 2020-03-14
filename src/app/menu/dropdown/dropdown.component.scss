@@ -1,0 +1,58 @@
+@import "~src/styles";
+
+$dropdown-content-color: #5b6670;
+$dropdown-content-background: rgba(242, 242, 242, 0.98);
+
+.dropdown {
+  margin-top: 2.5em;
+  margin-left: 0.75em;
+  margin-right: 0.75em;
+}
+
+.dropdown-title {
+  text-align: center;
+  font-weight: bold;
+  background-color: $dropdown-color;
+  height: 3em;
+}
+
+.dropdown-title-content {
+  font-size: 1em;
+  text-transform: uppercase;
+  color: white;
+  padding: 1em 0;
+}
+
+.dropdown-content {
+  display: block;
+  position: absolute;
+  min-height: 24.2em;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 100;
+  color: $dropdown-content-color;
+  background-color: $dropdown-content-background;
+}
+
+.dropdown-text {
+  margin: 1em;
+  p {
+    word-wrap: break-word;
+  }
+}
+
+.dropdown-close {
+  margin: 1em;
+  float: right;
+}
+
+@media screen and (max-width: 922px) {
+  .icon {
+    display: none;
+  }
+
+  .dropdown-title {
+    word-wrap: break-spaces;
+    word-break: keep-all;
+    font-size: 0.9em;
+  }
+}

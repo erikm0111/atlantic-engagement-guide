@@ -1,0 +1,29 @@
+<div class="menu-list">
+  <div class="row" id="images">
+    <div *ngFor="let component of components; let i = index;"
+         class="menu-item-icon"
+         [ngClass]="(component !== activeComponent && !isNeighbourComponent(i)) ? 'menu-item-icon-display-none' : ''"
+         (click)="changeComponent(component)">
+      <img class="img-gif" *ngIf="component === activeComponent" [src]="'assets/gifs/' + activeIcon + '.gif'">
+      <img *ngIf="component !== activeComponent" [src]="'assets/images/' + icons[component] + '.png'">
+      <div class="menu-item-title light"
+           [ngClass]="component === activeComponent ? 'highlight' : (!isNeighbourComponent(i) ? 'menu-item-icon-display-none' : '')"
+           (click)="changeComponent(component)"
+           [translate]="'guide.components.' + component + '.title'"></div>
+    </div>
+  </div>
+  <h2 class="regular menu-subtitle">
+    {{'guide.components.' + activeComponent + '.title' | translate | uppercase}}
+  </h2>
+</div>
+
+<app-collaboration *ngIf="activeComponent === 'collaboration'"></app-collaboration>
+<app-empowerment *ngIf="activeComponent === 'empowerment'"></app-empowerment>
+<app-leadership-and-development *ngIf="activeComponent ==='learning-and-development'"></app-leadership-and-development>
+<app-rewards-and-recognition *ngIf="activeComponent === 'rewards-and-recognition'"></app-rewards-and-recognition>
+<app-senior-leadership *ngIf="activeComponent === 'senior-leadership'"></app-senior-leadership>
+<app-supervision *ngIf="activeComponent === 'supervision'"></app-supervision>
+<app-talent-management *ngIf="activeComponent === 'talent-management'"></app-talent-management>
+<app-workload-and-flexibility *ngIf="activeComponent === 'workload-and-flexibility'"></app-workload-and-flexibility>
+
+<app-scroll-top></app-scroll-top>

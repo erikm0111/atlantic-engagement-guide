@@ -1,0 +1,106 @@
+@import "~src/styles";
+.menu {
+  margin-top: 6em;
+}
+
+.menu-container {
+  width: 60%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.icon {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  img {
+    width: 23em;
+    height: 32em;
+  }
+}
+
+.menu-content {
+  -webkit-box-flex: 2;
+  -ms-flex: 2 1 auto;
+  flex: 2 1 auto;
+}
+
+.menu-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 1.75em;
+}
+
+.menu-entry {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 0%;
+  flex: 1 1 0%;
+  height: 4.3em;
+  margin-right: 0.75em;
+  margin-left: 0.75em;
+  background-color: black;
+  color: white;
+}
+
+.menu-entry-text {
+  font-size: 1em;
+  text-transform: uppercase;
+  margin: 0.5em;
+}
+
+#senior-leadership {
+  background-color: $senior-leadership-color;
+}
+
+#talent-management {
+  background-color: $talent-management-color;
+}
+
+#collaboration {
+  background-color: $collaboration-color;
+}
+
+#empowerment {
+  background-color: $empowerment-color;
+}
+
+#learning-and-development {
+  background-color: $learning-and-development-color;
+}
+
+#supervision {
+  background-color: $supervision-color;
+}
+
+#rewards-and-recognition {
+  background-color: $rewards-and-recognition-color;
+}
+
+#workload-and-flexibility {
+  background-color: $workload-and-flexibility-color;
+}
+
+@media screen and (max-width: 1590px) {
+  .menu-container {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 922px) {
+  .icon {
+    display: none;
+  }
+
+  .menu-content {
+    .menu-entry {
+      .menu-entry-text {
+        word-wrap: break-spaces;
+        word-break: keep-all;
+        font-size: 0.9em;
+      }
+    }
+  }
+}

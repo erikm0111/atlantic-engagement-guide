@@ -1,0 +1,48 @@
+<div class="menu" id="menu">
+  <div class="menu-container" id="menu-container">
+    <div class="icon" id="left-icon">
+      <img src="assets/left_icon.png" alt="No icon" height="25em" width="25em">
+    </div>
+    <div [@menu]="showContent" class="menu-content" id="menu-content">
+      <app-dropdown></app-dropdown>
+      <div class="menu-row">
+        <div class="menu-entry senior-leadership" id="senior-leadership" [routerLink]="'/guide'" [queryParams]="{component: 'senior-leadership'}">
+          <div class="menu-entry-text bold" translate="guide.components.senior-leadership.title"></div>
+        </div>
+        <div class="menu-entry talent-management" id="talent-management" [routerLink]="'/guide'" [queryParams]="{component: 'talent-management'}">
+          <div class="menu-entry-text bold" translate="guide.components.talent-management.title"></div>
+        </div>
+      </div>
+
+      <div class="menu-row">
+        <div class="menu-entry collaboration" id="collaboration" [routerLink]="'/guide'" [queryParams]="{component: 'collaboration'}">
+          <div class="menu-entry-text bold" translate="guide.components.collaboration.title"></div>
+        </div>
+        <div class="menu-entry empowerment" id="empowerment" [routerLink]="'/guide'" [queryParams]="{component: 'empowerment'}">
+          <div class="menu-entry-text bold" translate="guide.components.empowerment.title"></div>
+        </div>
+      </div>
+
+      <div class="menu-row">
+        <div class="menu-entry learning-and-development" id="learning-and-development" [routerLink]="'/guide'" [queryParams]="{component: 'learning-and-development'}">
+          <div class="menu-entry-text bold" translate="guide.components.learning-and-development.title"></div>
+        </div>
+        <div class="menu-entry supervision" id="supervision" [routerLink]="'/guide'" [queryParams]="{component: 'supervision'}">
+          <div class="menu-entry-text bold" translate="guide.components.supervision.title"></div>
+        </div>
+      </div>
+
+      <div class="menu-row">
+        <div class="menu-entry rewards-and-recognition" id="rewards-and-recognition" [routerLink]="'/guide'" [queryParams]="{component: 'rewards-and-recognition'}">
+          <div class="menu-entry-text bold" translate="guide.components.rewards-and-recognition.title"></div>
+        </div>
+        <div class="menu-entry workload-and-flexibility" id="workload-and-flexibility" [routerLink]="'/guide'" [queryParams]="{component: 'workload-and-flexibility'}">
+          <div class="menu-entry-text bold" translate="guide.components.workload-and-flexibility.title"></div>
+        </div>
+      </div>
+    </div>
+    <div class="icon" id="right-icon">
+      <img src="assets/right_icon.png" alt="No icon">
+    </div>
+  </div>
+</div>

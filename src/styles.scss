@@ -1,0 +1,251 @@
+$dropdown-color: #5B6670;
+$senior-leadership-color: #006838;
+$collaboration-color: #2B398D;
+$learning-and-development-color: #662D8E;
+$rewards-and-recognition-color: #603913;
+$talent-management-color: #EA1C24;
+$empowerment-color: #BDB319;
+$supervision-color: #F78B41;
+$workload-and-flexibility-color: #00ABEC;
+
+@import url("https://use.typekit.net/edm7rzr.css");
+
+@font-face {
+  font-family: proximanova;
+  src: url(/assets/fonts/ProximaNovaRegular.otf) format('opentype')
+}
+
+@font-face {
+  font-family: proximanova-extrabold;
+  src: url(/assets/fonts/ProximaNova-Extrabld.otf) format('opentype')
+}
+
+@font-face {
+  font-family: proximanova-italic;
+  src: url(/assets/fonts/ProximaNova-RegularIt.otf) format('opentype')
+}
+
+@font-face {
+  font-family: proximanova-light;
+  src: url(/assets/fonts/MarkSimonsonProximaNovaAltCondensedLight.otf) format('opentype')
+}
+
+body {
+  margin: 0;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+span {
+  white-space: pre-line;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+div:focus {
+  outline: none;
+}
+
+a:focus {
+  outline: none;
+}
+
+span:focus {
+  outline: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.not-visible {
+  visibility: hidden;
+}
+
+.container {
+  color: #000;
+  border-top: 3px solid red;
+  background-image: url("src/assets/cover.jpg");
+}
+
+.content-subtitle {
+  text-align: center;
+  font-size: 2em;
+  margin: 2em 0 0 0;
+  padding-top: 0.5em;
+  color: red;
+}
+
+.menu-subtitle {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.content-separator {
+  width: 95%;
+}
+
+.content {
+  padding: 1em 0 2em 0;
+  margin-top: 4em;
+}
+
+.left-content {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.content-img {
+  width: 14em;
+  height: auto;
+  margin-bottom: 2em;
+}
+
+.content-row {
+  text-align: center;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+}
+
+.regular {
+  font-family: proximanova, sans-serif;
+}
+
+.bold {
+  font-family: proximanova-extrabold, sans-serif;
+  font-weight: 100;
+}
+
+.italic {
+  font-family: proximanova-italic, sans-serif;
+}
+
+.light {
+  font-family: proximanova-light, sans-serif;
+}
+
+@media screen and (max-width: 1590px) {
+  .content {
+    margin-top: 2em;
+  }
+
+  .left-content {
+    width: 50%;
+  }
+
+  .content-img {
+    width: 50%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .content {
+    font-size: 28px;
+    display: block;
+  }
+
+
+  .content-img {
+    width: 70%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 922px) {
+  .content {
+    display: block;
+  }
+
+  .content-subtitle {
+    font-size: 1.6em;
+  }
+
+  .menu-subtitle {
+    display: none;
+  }
+
+  .content-row {
+    font-size: 0.75em;
+  }
+
+  .content-img {
+    width: 80%;
+    height: auto;
+  }
+}
+
+
+/* Animations */
+.fade-in {
+  opacity: 0;
+  -webkit-animation: fadein 300ms forwards;
+  -moz-animation: fadein 300ms forwards;
+  -ms-animation: fadein 300ms forwards;
+  -o-animation: fadein 300ms forwards;
+  animation: fadein 300ms forwards;
+}
+
+.animation-1 {
+  -webkit-animation-delay: 0ms;
+  -moz-animation-delay: 0ms;
+  -ms-animation-delay: 0ms;
+  -o-animation-delay: 0ms;
+  animation-delay: 0ms;
+}
+
+.animation-2 {
+  -webkit-animation-delay: 300ms;
+  -moz-animation-delay: 300ms;
+  -ms-animation-delay: 300ms;
+  -o-animation-delay: 300ms;
+  animation-delay: 300ms;
+}
+
+.animation-3 {
+  -webkit-animation-delay: 600ms;
+  -moz-animation-delay: 600ms;
+  -ms-animation-delay: 600ms;
+  -o-animation-delay: 600ms;
+  animation-delay: 600ms;
+}
+
+.animation-4 {
+  -webkit-animation-delay: 900ms;
+  -moz-animation-delay: 900ms;
+  -ms-animation-delay: 900ms;
+  -o-animation-delay: 900ms;
+  animation-delay: 900ms;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

@@ -1,0 +1,20 @@
+<div class="dropdown">
+  <div class="dropdown-title" id="dropdown-title" (click)="toggledContent()">
+    <div class="dropdown-title-content bold" id="dropdown-title-content" translate="menu.dropdown.title"></div>
+  </div>
+  <div @dropdown class="dropdown-content" id="dropdown-content" *ngIf="contentShown" [ngStyle]="{width: width + 'px'}">
+    <div class="dropdown-text" id="dropdown-text">
+      <p translate="menu.dropdown.content.p1"></p>
+      <ul>
+        <li translate="menu.dropdown.content.li1"></li>
+        <li translate="menu.dropdown.content.li2"></li>
+        <li translate="menu.dropdown.content.li3"></li>
+      </ul>
+      <p translate="menu.dropdown.content.p2"></p>
+      <p translate="menu.dropdown.content.p3"></p>
+    </div>
+    <div id="dropdown-close" class="dropdown-close" (click)="toggledContent()">
+      <img src="assets/close_dropdown.png" alt="No icon">
+    </div>
+  </div>
+</div>

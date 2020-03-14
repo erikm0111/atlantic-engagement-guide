@@ -1,0 +1,57 @@
+$intro-border-color: rgba(0, 0, 0, 0.25);
+$intro-color: rgba(0, 0, 0, 0.5);
+
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.logo {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 0%;
+}
+
+.title-container {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 0%;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 2em;
+  font-size: 2em;
+}
+
+.options {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 0%;
+}
+
+.intro-button {
+  text-align: center;
+  margin-left: auto;
+  margin-right: 2.25em;
+  text-transform: uppercase;
+  align-items: end;
+  width: 6em;
+  height: 3em;
+  border: solid 1px $intro-border-color;
+  background-color: white;
+  border-radius: 0 0 7px 7px;
+}
+
+.intro-button-text {
+  margin: 1em;
+  color: $intro-color;
+}
+
+@media screen and (max-width: 922px) {
+  .title-container-display-none {
+    display: none;
+  }
+}

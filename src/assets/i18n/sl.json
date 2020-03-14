@@ -1,0 +1,258 @@
+{
+  "navbar": {
+    "title": "Vodnik za vodje",
+    "intro-button": {
+      "text": "Uvod"
+    }
+  },
+  "languages": {
+    "en": {
+      "abbreviation":  "EN",
+      "title": "Angleščina"
+    },
+    "hr": {
+      "abbreviation":  "HR",
+      "title": "Hrvaški"
+    },
+    "sl": {
+      "abbreviation":  "SLO",
+      "title": "Slovenščina"
+    }
+  },
+  "menu": {
+    "dropdown": {
+      "title": "Kako se spoprijeti z rezultati zaposlitve?"
+    },
+    "content": {
+      "p1": "Ko prejmete rezultate angažmaja za svojo enoto, je čas, da jih analizirate:",
+      "li1": "Rezultate predstavite članovim svoje ekipe, ne glede na to, ali so dobri ali slabi.",
+      "li2": "Določite najbolj kritična področja in skupaj z ekipo pripravite akcijski načrt za izboljšave.",
+      "li3": "Pazite na izvajanje dogovorjenih ukrepov in po potrebi spremenite.",
+      "p2": "Za lepo sodelovanje je potrebno vsakodnevno vzdrževanje. V pomoč smo vam pripravili nekaj koristnih nasvetov in trikov!",
+      "p3": "Beri naprej..."
+    }
+  },
+  "guide": {
+    "components": {
+      "senior-leadership": {
+        "title": "VIŠJE VODSTVO",
+        "subtitle": {
+          "1": "INFORMIRAJ SE, POKAŽI POT IN ",
+          "2": "VOID Z ZGLEDOM"
+        },
+        "texts": {
+          "a": "Organizirajte redne sestanke s svojo ekipo, da bi se lahko  pogovorili o poslovnih rezultatih in načrtih za prihodnost.",
+          "b": "Pravočasno sporočite pomembne poslovne odločitve. Preprečite \"radio hodnik\".",
+          "c": "Konferenčni klici so dobri, vendar nič ne more  nadomestiti osebne povezanosti in srečanja v živo. Redno bodite prisotni na trgih, za katere ste odgovorni.",
+          "d": "Dajte svoji ekipi priložnost, da je del Atlantic skupnosti. Motivirajte sodelavce, da sodelujejo na organiziranih dogodkih in srečanjih, kot sta Value Day ali  Novoletna zabava. Organizirajte delo na način, da ima vaša ekipa priložnost sodelovati.",
+          "e": "Sodelujte na srečanjih podjetja, kot je Športni vikend ali pa bodite aktivni v strateških pobudah, kot sta Yammer ali Employer Brand, torej tam kjer pričakujete sodelovanje svojih sodelavcev. Vodite z zgledom.",
+          "f": "Ko nastopijo spremembe v poslovanju, si vzemite dovolj časa, da pojasnite sodelavcem, zakaj so spremembe potrebne in kakšne so njihove posledice; kako in kdaj bodo te spremembe vplivale na podjetje, poslovanje in ljudi.",
+          "g": "Vzemite si čas za  pogovor s svojimi sodelavci in poslušajte, kaj imajo za povedati. Če je potrebno, uvedite npr. \"Dan odprtih vrat\" ali pa jih povabite na  kavo ob sproščenem pogovoru.",
+          "h": "Pozanimajte se o težavah in skrbeh, s katerimi se vaši sodelavci srečujejo v vsakdanjem življenju in službi. Pokažite, da vam je mar in da ste tukaj, da jim nudite podporo. ",
+          "i": "Bodite na voljo, dostopni, pošteni in nudite pomoč kadarkoli je ta potrebna. Kot vodja, so vaši ljudje vaša glavna prioriteta – nikoli tega ne pozabite."
+        }
+      },
+      "talent-management": {
+        "title": "UPRAVLJANJE S TALENTI",
+        "subtitle": {
+          "1": "PRAVI LJUDJE NA ",
+          "2": "PRAVIH MESTIH"
+        },
+        "texts": {
+          "a": "Dodelite članom svoje ekipe vloge, ki čim bolj ustrezajo njihovim individualnim prednostim in ambicijam.",
+          "b": "Definirajte razvojne aktivnosti, ki bodo izboljšale veščine in sposobnosti članov vaše ekipe. \nSledite formuli 70:20:10!\n70% (razvoj pri delu, na delovnem mestu) \n20 % (coaching, mentorstvo, povratna informacija,) \n10 % (usposabljanje, izobraževanje)\n",
+          "c": "Spremljajte napredek razvoja zaposlenega in ko opazite, da se zaposleni dolgočasi ali da je prerastel trenutno delovno mesto, razmislite o povečanju odgovornosti, večji raznovrstnosti, rotaciji, itd.",
+          "d": "Dajte redno povratno informacijo glede potrebnih veščin in kompetenc za napredovanje.",
+          "e": "Motivirajte člane ekipe, da spremljajo odprta  delovna mesta znotraj podjetja in da se prijavijo na tista delovna mesta, za katere menijo, da jim lahko nudijo priložnost za rast in razvoj.",
+          "f": "Bodite transparentni in pravočasno pojasnite ekipi, kdo bo promoviran in zakaj.",
+          "g": "Poskusite prepoznati dejavnike, ki lahko zmanjšajo tveganje, da najboljši zaposleni zapustijo podjetje in pripravite najprimernejše taktike za zadrževanje teh zaposlenih."
+        }
+      },
+      "collaboration": {
+        "title": "SODELOVANJE",
+        "subtitle": {
+          "1": "VSI VESLAMO V ",
+          "2": "ISTEM ČOLNU"
+        },
+        "texts": {
+          "a": "Obravnavajte svojo ekipo kot strokovnjake – oni so vaša najboljša izbira za nasvet  za izboljšanje storitev in procesov; ne oklevajte vprašati jih za nasvet.",
+          "b": "Pri sprejemanju odločitev vključite vse  zaposlene, na katere bodo posledice teh odločitev vplivale.",
+          "c": "Vključite člane ekipe v postavljanje ciljev. Zagotovite, da so cilji usklajeni ter da vsi člani ekipe delijo enake cilje.",
+          "d": "Definirajte projekte, v katerih morajo sodelovati zaposleni iz različnih enot.",
+          "e": "Nominirajte svoje sodelavce za člane ekip med-funkcijskih projektov.",
+          "f": "Motivirajte člane vaše ekipe, da se samoiniciativno prijavijo na med funkcijske  projekte.",
+          "g": "Organizirajte delavnice, da preučite zakaj sodelovanje ni na pričakovani ravni in se skupaj dogovorite glede ukrepov, ki jih je potrebno izvesti za dosego napredka.",
+          "h": "Občasno organizirajte »Start/Stop/Continue« delavnico in definirajte nove načine dela (s svojo ekipo ali z drugimi ekipami, s katerimi sodelujete).",
+          "i": "Potrudite se, da vsi razumejo svoje vloge in odgovornosti.",
+          "j": "Opogumite člane svoje ekipe, da pomagajo drug drugemu, tudi, če to pomeni, da morajo narediti nekaj izven svojega področja odgovornosti.",
+          "k": "Organizirajte neformalna timska in med timska druženja, da proslavite uspehe in spodbudite nadaljnje sodelovanje. Eno skupno kosilo lahko zgradi mnoge mostove."
+        }
+      },
+      "empowerment": {
+        "title": "AVTONOMIJA",
+        "subtitle": {
+          "1": "JAZ SEM ",
+          "2": "GLAVNI!"
+        },
+        "texts": {
+          "a": "Vključite člane svoje ekipe v iskanje rešitev, sprejemanje odločitev, reševanje problemov in uvajanje sprememb.",
+          "b": "Preverite, koliko vaše vključenosti in podpore člani vaše ekipe zares potrebujejo pri opravljanju vsakodnevnih nalog. Upoštevajte njihove potrebe!",
+          "c": "Spodbudite neodvisnost članov vaše ekipe tako, da zmanjšate raven nadzora in dovolite avtonomnost pri sprejemanju odločitev.",
+          "d": "Spodbudite člane ekipe, da delijo svoje poglede, ideje in predloge.",
+          "e": "Pohvalite člane ekipe, ko iščejo rešitve, namesto izgovorov ali težav.",
+          "f": "Pohvalite člane ekipe, ko iščejo rešitve, ne pa izgovorov ali težav.",
+          "g": "Delite informacije, ki vplivajo na delovanje vaše ekipe.",
+          "h": "Poskrbite, da imajo vsi člani ekipe potrebne informacije za opravljanje dnevnih opravil.",
+          "i": "Spodbudite člane svoje ekipe, da govorijo o čemerkoli za kar mislijo, da je pomembno."
+        }
+      },
+      "learning-and-development": {
+        "title": "UČENJE IN RAZVOJ",
+        "subtitle": {
+          "1": "ZNANJE JE ",
+          "2": "MOČ!"
+        },
+        "texts": {
+          "a": "Pojasnite, da je odgovornost za učenje in razvoj dvosmerna. Dajte članom ekipe nadzor  nad njihovim lastnim razvojem in jim ponudite popolno podporo v realizaciji tega.",
+          "b": "Pojasnite, da izobraževanje ni edina metoda razvoja. Izkoristite učinkovito formulo za razvoj - 70:20:10 (70% razvoj pri delu, 20% coaching, mentorstvo, povratna informacija in 10% usposabljanje, izobraževanje).",
+          "c": "Prepoznajte najpomembnejše razvojne potrebe (glede na učinek, izpopolnjevanje veščin, specifične profesionalne potrebe, karierni razvoj...) in definirajte Individualni razvojni načrt (Individual Development Plan – IDP) skupaj z zaposlenim. Nadzirajte realizacijo le-tega in nudite podporo,  v kolikor je potrebno.",
+          "d": "Prilagajajte razvojne načrte na način, da povečujejo prednosti in zmanjšujejo področja za razvoj.",
+          "e": "Organizirajte 1:1 razvojni pogovor in dajte odprto povratno informacijo.",
+          "f": "Preverite ambicije in opredelite, kaj je potrebno spremeniti ali narediti, da bi se razvoj premikal v pravo smer in da bi bili doseženi karierni cilji.",
+          "g": "Ne obljubljajte, če obljub ne morete izpolniti!",
+          "h": "Poskrbite, da člani vaše ekipe redno preverjajo razvojne aktivnosti dostopne na HR.net.",
+          "i": "Prepoznajte potrebe po izobraževanju vaše ekipe in spodbudite organizacijo potrebnega usposabljanja.",
+          "j": "Organizirajte «job shadowing« ali rotacijo opravil.",
+          "k": "Po usposabljanju, na katerem so bili prisotni člani vaše ekipe, si vzemite čas za razpravo o relevantnosti, koristnosti in uporabi veščin in znanja, ki so ga pridobili.",
+          "l": "Določite projekte, kjer se člani ekipe lahko učijo eden od drugega ali določite med funkcijske projekte.",
+          "m": "Bodite  mentor in coach svoji ekipi pri vsakdanjih opravilih.",
+          "n": "Članom ekipe dodelite mentorje iz svoje ekipe ali iz drugih  enot, z namenom da lahko razvijajo posebne veščine."
+
+
+        }
+      },
+      "supervision": {
+        "title": "VODENJE",
+        "subtitle": {
+          "1": "MAKSIMALNO SVETOVANJE IN ",
+          "2": "MINIMALNA KONTROLA"
+        },
+        "texts": {
+          "a": "Jasno sporočite vizijo, strategijo, cilje, odgovornosti in pričakovanja.",
+          "b": "Vključite člane ekipe v postavljanje timskih in individualnih ciljev za prihodnje leto.",
+          "c": "Pohvalite dobre rezultate in izkažite podporo članom svoje ekipe, ko rezultati niso dovolj dobri.",
+          "d": "Spodbujajte alternativne poglede in predloge.",
+          "e": "Vključite člane ekipe v iskanje rešitev, sprejemanje odločitev, reševanje problemov in uvajanje sprememb.",
+          "f": "Spodbudite člane ekipe, naj se učijo na svojih napakah in naj ne iščejo ter obsojajo tistih, ki so naredili napako.",
+          "g": "Dajte povratno informacijo o vsakodnevnih dosežkih, razvoju in možnostih kariernega napredovanja.",
+          "h": "Dajajte redno povratno informacijo o poslovnih temah, ki vplivajo na delo članov vašega ekipe.",
+          "i": "Spodbudite člane vaše ekipe, naj bodo kreativni, naj razmišljajo izven okvirjev.",
+          "j": "Skupaj iščite rešitve, da bi se izognili napakam.",
+          "k": "Bodite dostopni, na voljo in pripravljeni pomagati, kadarkoli je to potrebno.",
+          "l": "Vedno imejte odprta vrata. Vzemite si čas, da se sestanete s člani vaše ekipe in prisluhnite, kaj vam imajo za povedati. Organizirajte redne timske in 1:1 sestanke.",
+          "m": "Prepoznajte razvojne potrebe za vsakega člana ekipe. Vzemite si dovolj časa, da se pogovorite o osebnem razvoju vsakega člana ekipe in prilagodite individualni razvojni načrt.",
+          "n": "Bodite odprti, iskreni in pošteni.",
+          "o": "Ponudite svoje zaupanje in spoštovanje. Obravnavajte vsakega enako.",
+          "p": "Imejte redne neformalne pogovore z vsakim članom ekipe. Pokažite iskreno zanimanje za člane ekipe na in izven delovnega mesta.",
+          "r": "Pravočasno se spoprimite z nizko učinkovitostjo. Organizirajte 1:1 sestanek o učinku in  dajte odprto povratno informacijo, ki jo lahko podkrepite z dejstvi. Če v določenem časovnem obdobju ne pride do bistvenega izboljšanja, vključite Poslovnega partnerja in izdelajte načrt za izboljšanje  učinka z jasnimi cilji in roki. Nadzorujte napredek in nudite povratno informacijo.",
+          "s": "Informirajte se o posebnostih zasebnega življenja vsakega člana ekipe. Nudite jim podporo, v kolikor je potrebno."
+        }
+      },
+      "rewards-and-recognition": {
+        "title": "NAGRADE IN PRIZNANJA",
+        "subtitle": {
+          "1": "NEIZMERNO SEM TI ",
+          "2": "HVALEŽEN!"
+        },
+        "texts": {
+          "a": "Pohvalite dobro opravljeno delo ali posebne dosežke. Pohvale bi morale biti neposredne; ne čakajte na uradne nagrade ali  podelitve.",
+          "b": "Izjemne dosežke osebno pohvalite (govor pred celo ekipo, 1:1 povratna informacija, pismo, posebno darilo, objava pohvale na LinkedIn-u…).",
+          "c": "Prepoznajte timske in individualne dosežke na rednih sestankih. Imenujte npr. “zaposlenega leta” ali ”zaposlenega kvartala” in mu ponudite nek simbol priznanja (kot npr. darilno vrečko z našimi izdelki).",
+          "d": "Če pohvala prihaja izven ekipe (člani uprave, glavni direktorji, sodelavci iz drugih enot), podelite to z vsemi člani ekipe.",
+          "e": "Najdite način, da čestitate svoji ekipi za uspehe in  dosežke (npr. organizirajte timsko kosilo ali druženje)",
+          "f": "Zagotovite si dodatna sredstva (budget) za izjemen učinek, dodatne projekte, izjemne rezultate ali naloge opravljene izven rednega dela, v primerih, ko to ne spada v formalni sistem nagrajevanja.",
+          "g": "Pojasnite zakaj so delovna mesta ocenjena na način kot so, zakaj obstajajo razlike znotraj poslovne enote; pojasnite zunanje primerjave in  ali interna pravila za spremembe plač.",
+          "h": "Pojasnite katere so ugodnosti dostopne vsem zaposlenim, katere pa le določenim delovnim mestom. Poskrbite, da zaposleni razumejo, da ugodnosti niso samo denarne (npr. zdravstveni pregledi, športni klubi, darila za otroke…).",
+          "i": "Po potrebi organizirajte sestanek s poslovnim partnerjem ali s strokovnjakom za nagrajevanje, da bi razumeli katere ugodnosti so dostopne zaposlenim v Atlanticu."
+        }
+      },
+      "workload-and-flexibility": {
+        "title": "DELOVNA OBREMENITEV IN FLEKSIBILNOST",
+        "subtitle": {
+          "1": "STRASTEN, ",
+          "2": "A NE IZGOREL"
+        },
+        "texts": {
+          "a": "Pri dodeljevanju naloge pustite dovolj časa za njeno izvajanje.",
+          "b": "Posvetujte se s člani ekipe glede roka izvedbe naloge.",
+          "c": "Poskrbite, da so naloge enakomerno porazdeljene med člane ekipe.",
+          "d": "Organizirajte »Start/Stop/Continue« delavnico in določite, kako se izogniti nepotrebnim  opravilom.",
+          "e": "Pokažite iskreno zanimanje za sodelavce tako znotraj kot  izven delovnega okolja.",
+          "f": "Izogibajte se poslovnemu komuniciranja izven delovnega časa.",
+          "g": "Upoštevajte prilagodljiv delovni čas in lokacijo dela, toliko kolikor to potrebujejo člani vaše ekipe. Če so cilji zastavljeni in obstaja zaupanje, vam ni treba skrbeti. Neposredna korelacija med izjemnim učinkom in delom v pisarni od devetih do petih ne obstaja.",
+          "h": "Izogibajte se nalogam \"danes za včeraj\". Če se pojavijo prednostne naloge,  preverite kako vplivajo na druge obveznosti in ustrezno ukrepajte.",
+          "i": "Določite prioritete skupaj s člani ekipe.",
+          "j": "Spodbudite člane ekipe, da si med seboj pomagajo.",
+          "k": "Vprašajte člane ekipe, kako jim lahko pomagate. Ponudite svojo pomoč."
+        }
+      }
+    }
+  },
+  "intro": {
+    "title": "Vodnik za vodje",
+    "text": "Živjo! Dobrodošli v Priročniku za vodje – zavzetost zaposlenih! To so vaši pomočniki, ki vam bodo pomagali s koristnimi nasveti in triki, povezanimi z zavzetostjo.",
+    "continue": "Nadaljujte"
+  },
+  "quotes": {
+    "quote-1": {
+      "text": "V kolikor vaši postopki inspirirajo druge, da sanjajo več, se učijo več, delajo več in postajajo več, potem ste vodja.",
+      "author": "John Quincy Adams",
+      "metadata": "6. predsednik Združenih držav Amerike"
+    },
+    "quote-2": {
+      "text": "Če ste ljudem všeč, vas bodo poslušali, vendar, če vam verjamejo, bodo poslovali z vami.",
+      "author": "Zig Ziglar",
+      "metadata": "avtor, trgovec in motivacijski govornik"
+    },
+    "quote-3": {
+      "text": "Vaše najmanj zadovoljne stranke so vaš najboljši vir učenja.",
+      "author": "Bill Gates",
+      "metadata": "soustanovitelj Microsofta"
+    },
+    "quote-4": {
+      "text": "Ne gre za ideje. Gre za pretvarjanje idej v resničnost.",
+      "author": "Scott Belsky",
+      "metadata": "soustanovitelj Behancea"
+    },
+    "quote-5": {
+      "text": "Vedno razmišljajte izven okvirjev in sprejmite priložnosti kjerkoli se pojavijo.",
+      "author": "Lakshmi Mittal",
+      "metadata": "predsednik in glavni izvršni direktor ArcelorMittala"
+    },
+    "quote-6": {
+      "text": "Če misliš, da zmoreš ali če misliš, da ne zmoreš – prav imaš.",
+      "author": "Henry Ford",
+      "metadata": "ustanovitelj Ford Motor Company"
+    },
+    "quote-7": {
+      "text": "Uspeh je seštevek manjših podvigov – ki se ponavljajo iz dneva v dan.",
+      "author": "Robert Collier",
+      "metadata": "avtor"
+    },
+    "quote-8": {
+      "text": "Če si poskusil. Če nisi uspel. Ni pomembno. Poskusi spet. Če spet ne uspeš. Ne uspeš še boljše",
+      "author": "Samuel Beckett",
+      "metadata": "irski avant-garde dramski in gledališki pisatelj"
+    },
+    "quote-9": {
+      "text": "V redu je slaviti uspeh, vendar bolj pomembno je naučiti se lekcije iz neuspelih poskusov.",
+      "author": "Bill Gates",
+      "metadata": "soustanovitelj Microsofta"
+    },
+    "quote-10": {
+      "text": "Če se lahko prisiliš, da prevladaš občutek straha, občutek prevzemanja tveganja, se zares neverjetne stvari lahko zgodijo.",
+      "author": "Marissa Mayer",
+      "metadata": "predsednica in izvršna direktorica Yahooja"
+    }
+  }
+}

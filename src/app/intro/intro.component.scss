@@ -1,0 +1,82 @@
+@import "~src/styles";
+
+.intro {
+
+}
+
+.intro-container {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro-icon {
+  width: 80%;
+  margin: auto;
+  img {
+    width: 40em;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
+.intro-title {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  font-size: 2em;
+}
+
+.intro-text {
+  text-align: center;
+  font-size: 1.75em;
+}
+
+.intro-continue {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  display: block;
+}
+
+.intro-continue-text {
+  text-transform: uppercase;
+  font-size: 1.25em;
+  display: inline;
+  margin-right: 1em;
+}
+
+.intro-continue-arrow {
+  display: inline;
+}
+
+@media screen and (max-width: 922px) {
+
+  .intro-icon {
+    margin-top: 2em;
+  }
+
+  .intro-title {
+    font-size: 2.2em;
+  }
+
+  .intro-text {
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  .intro-container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
